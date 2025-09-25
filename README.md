@@ -76,9 +76,7 @@ select * from author where name like 'Nikh__';
 
 
 select * from author where name like 'a%' or name like 'b%' or name like 't%';  
-
-
-                                  --  or-- 
+                                      --  or-- 
                                   --recommended method below -- 
 
 								  
