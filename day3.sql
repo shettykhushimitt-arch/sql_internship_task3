@@ -1,4 +1,4 @@
-use library_database_management_system; ;
+use library_database_management_system; 
 
 -- selecting data without conditions-- 
 select * from author;
